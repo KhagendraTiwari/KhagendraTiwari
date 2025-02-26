@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=khagendratiwari" alt="khagendratiwari" /></a> </p>
 
-- 🌱 I’m currently learning **DevOps and Project Management Tools and Methodologies.**
+- 🌱 I’m currently learning **Python Programming and fullstack development**
 
-- 📫 How to reach me **khagendratiwari002@gmail.com**
+- 📫 How to reach me **khagendratiwari001@gmail.com or khagendratiwari002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
